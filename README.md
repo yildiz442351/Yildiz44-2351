@@ -1,5 +1,5 @@
 # Yildiz44-2351
-<h2>My name is Yildiz44-2351 👩🏻‍💻 </h2> 
+<h2>My name is Yildiz44-2351 👩 </h2> 
 
 <h3>About me: </h3> 
  I am a front-end React developer that skilled in developing interactive user interfaces.
